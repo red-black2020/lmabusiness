@@ -130,7 +130,7 @@
         </section>
         
 
-        <section class="bg-image-filter bg-image bg-image-fixed section-xxl" style="background-image: url(&quot;images/home-3-parallax-01.jpg&quot;);">
+        <section class="bg-image-filter bg-image bg-image-fixed section-xxl" style="background-image: url(&quot;images/home-3.jpg&quot;);">
             <div class="container filter-inner-wrap">
             <div class="row justify-content-sm-center text-center">
                 <div class="col-sm-10 col-md-8 col-lg-6">
@@ -144,67 +144,83 @@
 
         <section class="section-75 section-md-100 section-lg-120 section-xl-130">
             <div class="container">
-            <h2><span class="small">Testimonials</span>What clients say about our company</h2>
+            <h2><span class="small">Reseñas</span>Lo que nuestros clientes opinan</h2>
             <div class="row">
                 <div class="col-sm-12">
                 <!-- Owl Carousel-->
                 <div class="owl-carousel" data-autoplay="true" data-items="1" data-lg-items="2" data-dots="true" data-nav="false" data-stage-padding="15" data-loop="true" data-margin="30" data-mouse-drag="false">
                     <blockquote class="quote-default text-left">
                     <h6>
-                        <q>“ I highly recommend this company. I had a washing machine breakdown and they had it back and running within 30 minutes of service call. Thank you for such a professional work!”</q>
+                        <q>
+                        “ Realmente qued&eacute; encantado con su servicio, en otras ocasiones hab&iacute;a 
+                        llevado a reparaci&oacute;n mi computadora pero nunca qued&oacute; bien, 
+                        hasta que me recomendaron a LMABUSINESS por un amigo, despu&eacute;s de un par de d&iacute;s
+                        ya ten&iacute;a la computadora como nueva conmigo.”
+                        </q>
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
                         <div class="unit-left"><img class="rounded-circle" src="images/testimonials-1-68x68.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
-                            <cite>Jane Anderson</cite>
-                            </h6><span class="offset-top-10 small-xs">CEO, Firetree Co.</span>
+                            <cite>Luis Rej&oacute;n</cite>
+                            </h6>
                         </div>
                         </div>
                     </div>
                     </blockquote>
                     <blockquote class="quote-default text-left">
                     <h6>
-                        <q>“Great service! The staff was so friendly and knowledgeable. They fixed my refrigerator in a timely and professional manner. Highly recommend. Thanks for a good job, guys!”</q>
+                        <q>
+                        “Nuestra empresa se dedica a la venta de diversos productos, con la pandem&iacute;a tuvimos
+                        problemas de llegar a nuestros clientes dado que las tiendas a las que surt&iacute;amos tuvieron
+                        que cerrar, gracias al equipo de trabajo de lmbusiness logramos aumentar nuestras ventas con 
+                        el marketing digital.”
+                         </q>
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
                         <div class="unit-left"><img class="rounded-circle" src="images/testimonials-2-68x68.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
-                            <cite>Jim Johnson</cite>
-                            </h6><span class="offset-top-10 small-xs">Head manager, Frober Design</span>
+                            <cite>Christian Cer&oacute;n</cite>
+                            </h6>
                         </div>
                         </div>
                     </div>
                     </blockquote>
                     <blockquote class="quote-default text-left">
                     <h6>
-                        <q>“Thank you very much for your wonderful service, your highly experienced team was just terrific! We look forward to continuing to always work with Home Service. Good luck, guys! ”</q>
+                        <q>
+                        “Muchas gracias por su apoyo, logramos terminar mi blog personal justo como 
+                        yo lo estaba buscando a un precio que me pareci&oacute; muy conveniente para mi, 
+                        han sido atentos a mis demandantes peticiones y son muy serviciales. ”</q>
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
                         <div class="unit-left"><img class="rounded-circle" src="images/testimonials-3-68x68.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
-                            <cite>Peter Handerson</cite>
-                            </h6><span class="offset-top-10 small-xs">Editor, SAM Publishing</span>
+                            <cite>Esmeralda Carrillo</cite>
+                            </h6>
                         </div>
                         </div>
                     </div>
                     </blockquote>
                     <blockquote class="quote-default text-left">
                     <h6>
-                        <q>“I just wanted to let you know that your professional team came out and fixed the problem and did a great job. Thank you for the prompt service and making the repair.”</q>
+                        <q>
+                        “Estoy muy agradecida, mi computadora dej&oacute; de funcionar, y sus t&eacute;cnicos fueron
+                        capaces de extraer todas las fotos de mis hijos y sobrinos, son una empresa muy confiable.”
+                        </q>
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
                         <div class="unit-left"><img class="rounded-circle" src="images/testimonials-4-68x68.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
-                            <cite>Rita Johnson</cite>
-                            </h6><span class="offset-top-10 small-xs">Designer, Glance Studio</span>
+                            <cite>Laura Rodr&iacute;guez</cite>
+                            </h6>
                         </div>
                         </div>
                     </div>
