@@ -11,7 +11,7 @@
                 <!-- RD Navbar Toggle-->
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                 <button class="rd-navbar-collapse-toggle" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></button>
-                <div class="rd-navbar-brand"><a class="brand-name" href="index.html"><img class="brand-device" src="images/brand-default-229x58.png" width="229" height="58" alt="Home service"><img class="brand-mobile" src="images/logos/LMA BUSINESS-04.png" width="229" height="58" alt="Home service"></a></div>
+                <div class="rd-navbar-brand"><a class="brand-name" href="index.html"><img class="brand-device" src="images/logos/LMA BUSINESS-03.png" width="229" height="58" alt="Home service"><img class="brand-mobile" src="images/logos/LMA BUSINESS-02.png" width="229" height="58" alt="Home service"></a></div>
               </div>
               <div class="rd-navbar-collapse animated">
                 <div class="rd-navbar-collapse-items">
@@ -70,7 +70,7 @@
                       <li><a href="soporte.php?pagina=<?php echo "Soporte" ?>">Soporte t&eacute;cnico</a></li>
                     </ul>
                   </li>
-                  <li id="Cotizacion"><a href="contacto.php?pagina=<?php echo "Contacto" ?>">Solicita una cotizaci&oacute;n</a></li>
+                  <li id="Cotizacion"><a href="contacto.php?pagina=<?php echo "Cotizacion" ?>">Solicita una cotizaci&oacute;n</a></li>
                 </ul>
               </div>
             </div>

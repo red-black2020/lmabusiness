@@ -160,7 +160,7 @@
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
-                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials-1-68x68.jpg" width="68" height="68" alt=""></div>
+                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials/tres.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
                             <cite>Luis Rej&oacute;n</cite>
@@ -180,7 +180,7 @@
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
-                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials-2-68x68.jpg" width="68" height="68" alt=""></div>
+                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials/dos.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
                             <cite>Christian Cer&oacute;n</cite>
@@ -198,7 +198,7 @@
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
-                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials-3-68x68.jpg" width="68" height="68" alt=""></div>
+                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials/cuatro.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
                             <cite>Esmeralda Carrillo</cite>
@@ -216,7 +216,7 @@
                     </h6>
                     <div class="offset-top-30 offset-md-top-45">
                         <div class="unit flex-row align-items-sm-center">
-                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials-4-68x68.jpg" width="68" height="68" alt=""></div>
+                        <div class="unit-left"><img class="rounded-circle" src="images/testimonials/uno.jpg" width="68" height="68" alt=""></div>
                         <div class="unit-body">
                             <h6>
                             <cite>Laura Rodr&iacute;guez</cite>
@@ -231,49 +231,79 @@
             </div>
         </section>
         <section class="section-75 section-md-120 section-lg-120 section-xl-150 bg-table">
+            <!--
             <div class="container">
-            <h2><span class="small">Latest news</span>News & Events</h2>
-            <div class="row justify-content-sm-center text-lg-left row-55">
-                <div class="col-sm-10 col-md-6 col-xl-4">
-                <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-06-485x250.jpg" alt="" width="485" height="250"/>
-                    <div class="blog-grid-title">oven repair</div></a>
-                    <div class="blog-grid-content">
-                    <h5><a class="text-primary" href="#">How to Repair a Gas Range</a></h5>
-                    <p>If the burners on your stove don't light or the oven isn't heating, you can usually solve the problem in five minutes and save the cost of a service call.</p>
-                    <p class="text-darker">
-                        <time datetime="2019">August 11, 2019</time>
-                    </p>
+                <h2><span class="small">Latest news</span>News & Events</h2>
+                <div class="row justify-content-sm-center text-lg-left row-55">
+                    <div class="col-sm-10 col-md-6 col-xl-4">
+                    <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-06-485x250.jpg" alt="" width="485" height="250"/>
+                        <div class="blog-grid-title">oven repair</div></a>
+                        <div class="blog-grid-content">
+                        <h5><a class="text-primary" href="#">How to Repair a Gas Range</a></h5>
+                        <p>If the burners on your stove don't light or the oven isn't heating, you can usually solve the problem in five minutes and save the cost of a service call.</p>
+                        <p class="text-darker">
+                            <time datetime="2019">August 11, 2019</time>
+                        </p>
+                        </div>
+                    </article>
                     </div>
-                </article>
+                    <div class="col-sm-10 col-md-6 col-xl-4">
+                    <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-07-485x250.jpg" alt="" width="485" height="250"/>
+                        <div class="blog-grid-title">tablet repair</div></a>
+                        <div class="blog-grid-content">
+                        <h5><a class="text-primary" href="#">How to Repair Android Tablets</a></h5>
+                        <p>Do you need a tablet repair service? It's easy to fall in love with your tablet, as it offers the perfect combination of size and function. Whether you use it for work, school, or play...</p>
+                        <p class="text-darker">
+                            <time datetime="2019">August 21, 2019</time>
+                        </p>
+                        </div>
+                    </article>
+                    </div>
+                    <div class="col-sm-10 col-md-6 col-xl-4">
+                    <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-08-485x250.jpg" alt="" width="485" height="250"/>
+                        <div class="blog-grid-title">refrigerator Repair</div></a>
+                        <div class="blog-grid-content">
+                        <h5><a class="text-primary" href="#">20 Tools Every Homeowner Should Have</a></h5>
+                        <p>You probably have a hammer, but that's just a start. These 20 tools and devices are superstars for household projects and repairs. If you love tools or just need to stock a basic...</p>
+                        <p class="text-darker">
+                            <time datetime="2019">September 1, 2019</time>
+                        </p>
+                        </div>
+                    </article>
+                    </div>
                 </div>
-                <div class="col-sm-10 col-md-6 col-xl-4">
-                <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-07-485x250.jpg" alt="" width="485" height="250"/>
-                    <div class="blog-grid-title">tablet repair</div></a>
-                    <div class="blog-grid-content">
-                    <h5><a class="text-primary" href="#">How to Repair Android Tablets</a></h5>
-                    <p>Do you need a tablet repair service? It's easy to fall in love with your tablet, as it offers the perfect combination of size and function. Whether you use it for work, school, or play...</p>
-                    <p class="text-darker">
-                        <time datetime="2019">August 21, 2019</time>
-                    </p>
-                    </div>
-                </article>
+            </div>
+            -->
+            <div class="container">
+            <h2><span class="small"></span>	Nuestros líderes
+            </h2>
+            <div class="row row-40 justify-content-md-between">
+                <div class="col-sm-6 col-lg-3"><img class="img-responsive" src="images/team/uno.jpg" alt="" width="360" height="404"/>
+                <h6><a href="#"> Ana Ponce</a></h6><span class="small small-md">Ingeniera en redes y seguridad</span>
+                <p>Ana es nuestra consultora y experta en seguridad, su equipo nos apoya a liberar 
+                    los desarrollos libres de vulnerabilidades.</p>
                 </div>
-                <div class="col-sm-10 col-md-6 col-xl-4">
-                <article class="blog-grid blog-grid-custom"><a class="blog-grid-image" href="#"><img class="img-responsive" src="images/home-3-08-485x250.jpg" alt="" width="485" height="250"/>
-                    <div class="blog-grid-title">refrigerator Repair</div></a>
-                    <div class="blog-grid-content">
-                    <h5><a class="text-primary" href="#">20 Tools Every Homeowner Should Have</a></h5>
-                    <p>You probably have a hammer, but that's just a start. These 20 tools and devices are superstars for household projects and repairs. If you love tools or just need to stock a basic...</p>
-                    <p class="text-darker">
-                        <time datetime="2019">September 1, 2019</time>
-                    </p>
-                    </div>
-                </article>
+                <div class="col-sm-6 col-lg-3"><img class="img-responsive" src="images/team/dos.jpg" alt="" width="360" height="404"/>
+                <h6><a href="#"> Juli&aacute;n Castro</a></h6><span class="small small-md">Informático</span>
+                <p>Julián es el líder del área de marketing y social media.</p>
+                </div>
+                <div class="col-sm-6 col-lg-3"><img class="img-responsive" src="images/team/tres.jpg" alt="" width="360" height="404"/>
+                <h6><a href="#"> Tulio Concha</a></h6><span class="small small-md">Ingeniero en software</span>
+                <p>Tulio es el jefe del equipo del área de ingeniería web, sus conocimientos 
+                    técnicos en el desarrollo de aplicaciones web y móviles son un fuerte pilar. 
+                </p>
+                </div>
+                <div class="col-sm-6 col-lg-3"><img class="img-responsive" src="images/team/cuatro.jpg" alt="" width="360" height="404"/>
+                <h6><a href="#"> Jes&uacute;s Santos</a></h6><span class="small small-md">T&eacute;cnico en sistemas</span>
+                <p>Jesús lleva más de 30 años de experiencia en el área de sistemas computacionales, 
+                    a su cargo tiene un equipo que se encarga del soporte de equipos computacionales.</p>
                 </div>
             </div>
             </div>
-        </section>
 
+
+        </section>
+<!--
         <section class="section-75 section-md-120 section-xl-150">
             <div class="container">
             <h2><span class="small">Meet The Team</span>	People behind our success
@@ -298,6 +328,7 @@
             </div>
             </div>
         </section>
+-->
         <!--FOOTER-START -->
         <?php include 'footer.php';?>
         <!--FOOTER-END -->

@@ -2,7 +2,7 @@
     <section class="section-75 section-sm-80 section-md-100 section-xl-150">
         <div class="container">
         <div class="row text-md-left row-55">
-            <div class="col-md-6 col-xl-3 col-xxl-4"><a href="index.html"><img class="img-responsive" src="images/brand-white-229x58.png" alt="" width="229" height="58"/></a>
+            <div class="col-md-6 col-xl-3 col-xxl-4"><a href="index.html"><img class="img-responsive" src="images/logos/LMA BUSINESS-02.png" alt="" width="229" height="58"/></a>
             <p class="offset-top-20 offset-md-top-35 inset-xxl-right-30">
                 Somos una compañía de principios y valores bien establecidos: 
                 proveer del mejor servicio a nuestros clientes, 
