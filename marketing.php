@@ -25,7 +25,7 @@
           </div>
         </div>
       </section>
-      <section class="section-50 section-md-75 section-md-100 section-lg-120 section-xl-150">
+      <section class="section-50 section-md-75 section-md-75 section-lg-80 section-xl-80">
         <div class="container">
           <div class="row">
             <div class="col-xl-11 col-xxl-9">
@@ -34,22 +34,33 @@
               Hoy en día, el internet está incorporado a nuestra vida de tal manera que 
               es casi imposible hacer cualquier cosa sin ella. No es casualidad que es cada 
               vez más difícil ver a las personas desconectadas de sus celulares, teniendo 
-              internet al alcance de los dedos.
-              Welcome to our wonderful world. We sincerely hope that each and every user entering 
-              our website will find exactly what he/she is looking for. 
-              With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h2>H2 Noto Sans 40pt/50pt</h2>
-              <p class="inset-xxl-right-120">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h3>H3 Noto Sans 30pt/38pt</h3>
-              <p class="inset-xxl-right-120">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h4>H4 Noto Sans 26pt/34pt</h4>
-              <p class="inset-xxl-right-120">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h5>H5 Poppins 24pt/32pt</h5>
-              <p class="inset-xxl-right-120">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h6>H6 Poppins 18pt/26pt</h6>
-              <p class="inset-xxl-right-120 offset-top-20">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
-              <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Blockquote</h2>
-              <blockquote class="quote-default text-md-left">
+              internet al alcance de los dedos 
+              </p>
+              <section class= "section-75 section-md-120 section-xl-80">
+
+              <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-80">Alcanza un mayor número de clientes potenciales</h2>
+              <p class="inset-xxl-right-120">
+              Con ayuda de nuestros expertos en marketing digital asegúrate de alcanzar al mayor número 
+              de clientes objetivo. 
+              </p>
+              <article>
+                <h3 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Social Media</h3>
+                <div class="unit flex-column flex-md-row unit-spacing-xl offset-top-25 text-md-left">
+                  <div class="unit-body">
+                    <p class="inset-xxl-right-120">
+                      Con nuestras campañas de posicionamiento de marcas y redes podrás 
+                      posicionar tu empresa como referente de la zona en su área.
+                      Desarrollamos estrategias de ventas, posicionamiento, promoción de productos, 
+                      servicios y marcas a través de internet y las principales redes sociales. 
+                    </p>
+                  </div>
+                  <div class="unit-right"><img class="img-responsive" src="images/marketing/redes.png" alt="" width="360" height="247"/>
+                </div>
+              </article>
+              
+              </section>
+              <!--
+              <blockquote class="quote-default text-md-left ">
                 <h5>
                   <q>“ I highly recommend this company. I had a washing machine breakdown and they had it back and running within 30 minutes of service call. Thank you for such a professional work!”</q>
                 </h5>
@@ -64,14 +75,12 @@
                   </div>
                 </div>
               </blockquote>
-              <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Text Formatting</h2>
-              <p class="offset-top-25 p-wrap"><span class="text-primary">Link text</span>.	<span class="text-school-bus-yellow">Hover link text</span>.	<span class="text-silver-chalice">Press link</span>.	<span class="font-weight-bold">This is a bold text.</span>	<span class="mark">Highlighted text.</span>	<span class="text-strike">Strikethrough text.</span>	<span class="text-underline">Underlined text.</span>
-              </p>
+              -->
             </div>
           </div>
-          <div class="row row-30 offset-top-60 offset-sm-top-70 offset-md-top-125">
+          <div class="row row-30 offset-top-50 offset-sm-top-50 offset-md-top-80">
             <div class="col-md-6 col-xl-4 col-xxl-3">
-              <h2>Unordered list</h2>
+              <h2>Social Media</h2>
               <ul class="list list-marked list-marked-primary list-xs offset-top-20">
                 <li>Our company</li>
                 <li>Our services</li>
@@ -81,14 +90,14 @@
               </ul>
             </div>
             <div class="col-md-6 col-xl-4 col-xxl-3">
-              <h2>Ordered list</h2>
-              <ol class="list list-xs offset-top-20 list-order text-left">
+            <h2>Marketing digital</h2>
+              <ul class="list list-marked list-marked-primary list-xs offset-top-20">
                 <li>Our company</li>
                 <li>Our services</li>
                 <li>Careers</li>
                 <li>Certifications</li>
                 <li>Company history</li>
-              </ol>
+              </ul>
             </div>
           </div>
           <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Icon List</h2>
@@ -112,24 +121,8 @@
               <div class="offset-top-20"><img class="img-responsive" src="images/typography-01-985x676.jpg" alt="" width="985" height="676"/>
                 <p class="offset-top-25">Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page. It will tell you lots of interesting things about our company.</p>
               </div>
-              <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Image left</h2>
-              <div class="unit flex-column flex-md-row unit-spacing-xl offset-top-25 text-md-left">
-                <div class="unit-left"><img class="img-responsive" src="images/typography-02-360x247.jpg" alt="" width="360" height="247"/>
-                </div>
-                <div class="unit-body">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
-                  <p class="d-none d-lg-block">It will tell you lots of interesting things about our company, its products and services, highly professional staff and happy customers.</p>
-                </div>
-              </div>
-              <h2 class="offset-top-60 offset-sm-top-70 offset-md-top-125">Image right</h2>
-              <div class="unit flex-column flex-md-row unit-spacing-xl offset-top-25 text-md-left">
-                <div class="unit-body">
-                  <p>Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page.</p>
-                  <p class="d-none d-lg-block">It will tell you lots of interesting things about our company, its products and services, highly professional staff and happy customers.</p>
-                </div>
-                <div class="unit-right"><img class="img-responsive" src="images/typography-02-360x247.jpg" alt="" width="360" height="247"/>
-                </div>
-              </div>
+            
+              
             </div>
           </div>
         </div>
