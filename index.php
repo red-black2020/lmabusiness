@@ -135,7 +135,8 @@
             <div class="row justify-content-sm-center text-center">
                 <div class="col-sm-10 col-md-8 col-lg-6">
                 <h2 class="text-white"><span class="small text-white">Solución y mantenimiento</span>El mejor servicio<br class="d-none d-lg-block">La mejor relación precio y calidad
-                </h2><a class="btn btn-default btn-form btn-default-white" href="contacts.html">Cotizar</a>
+                </h2>
+                    <a class="btn btn-default btn-form btn-default-white" href="contacto.php">Cotizar</a>
                 </div>
             </div>
             </div>
