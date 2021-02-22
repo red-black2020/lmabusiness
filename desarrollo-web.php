@@ -14,7 +14,7 @@
 
         <!--DESARROLLO-WEB-START-->
          <!-- Classic Breadcrumbs-->
-      <section class="breadcrumb-classic bg-image" style="background-image: url(&quot;images/servicios/marketing/header.png&quot;)">
+      <section class="breadcrumb-classic bg-image" style="background-image: url(&quot;images/web/presentation.png&quot;)">
         <div class="container">
           <div class="row">
             <ul class="list-breadcrumb">
@@ -58,7 +58,7 @@
                     </p>
                     <a class="btn btn-default btn-form btn-default-white align-self-center" href="contacto.php">Cotizar</a>
                   </div>
-                  <div class="unit-right"><img class="img-responsive" src="images/marketing/redes.png" alt="" width="360" height="247"/>
+                  <div class="unit-right"><img class="img-responsive" src="images/web/web.jpg" alt="" width="360" height="247"/>
                 </div>
               </article>
               
